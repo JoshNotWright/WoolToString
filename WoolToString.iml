@@ -1,5 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <module type="JAVA_MODULE" version="4">
+  <component name="FacetManager">
+    <facet type="minecraft" name="Minecraft">
+      <configuration>
+        <autoDetectTypes>
+          <platformType>SPIGOT</platformType>
+        </autoDetectTypes>
+      </configuration>
+    </facet>
+  </component>
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
@@ -10,7 +19,7 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="jar://$MODULE_DIR$/../Spigot 1.18/Spigot/Spigot-API/target/spigot-api-1.18-R0.1-SNAPSHOT-shaded.jar!/" />
+          <root url="jar://$USER_HOME$/Downloads/spigot-api-1.20.1-R0.1-20230921.163938-66-shaded.jar!/" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
