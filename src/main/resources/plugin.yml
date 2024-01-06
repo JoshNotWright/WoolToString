@@ -1,0 +1,7 @@
+name: WoolToString
+version: '${project.version}'
+main: me.joshwright.wooltostring.WoolToString
+api-version: '1.20'
+authors:
+  - Josh Wright
+  - Kapitan_Floww
